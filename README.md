@@ -6,3 +6,4 @@
 
 **git clone https://github.com/sssweetie/git_lesson3.git NewFolder** - клонировать удаленный репозиторий в новую папку NewFolder;
 
+**git pull** - позволяет скачать все из текущего репозитория и автоматически сделать merge с нашей версией 
