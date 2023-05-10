@@ -4,3 +4,4 @@
 
 **git clone** - создали клон из sssweetie
 
+**git clone** - создали клон из sssweetie №2
