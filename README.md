@@ -4,3 +4,8 @@
 
 **sorry for being late with this homework**
 
+cd ..
+
+cd .\test\
+
+ls
